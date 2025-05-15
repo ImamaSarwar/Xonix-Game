@@ -6,6 +6,8 @@ Xonix is a 2D arcade-style game developed using SFML in C++, featuring both sing
 ### Game Modes:
 - Single Player with 3 progressive levels (increasing enemies & speed).
 - Multiplayer with matchmaking via a priority queue.
+### Power Ups:
+- Special abilities such as temporarily freezing enemy movement that can be activated during gameplay using a stack-based system.
 ### Social System:
 - Send/accept/delete friend requests.
 - View mutual friends and connect with them.
@@ -17,6 +19,8 @@ Xonix is a 2D arcade-style game developed using SFML in C++, featuring both sing
 - Players can save and resume their single-player progress.
 ### Matchmaking:
 - Matched players battle, with losing scores updated and winners only if they beat their previous high score.
+### Menus:
+- Several menus including instructions menu for a brief introduction on how to play the game!
 # Data Structures Used:
 |Data Structures| Usage |
 |---| --- |
