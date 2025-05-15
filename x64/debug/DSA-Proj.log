@@ -1,0 +1,225 @@
+﻿  Source.cpp
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Globals.h(62,14): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Globals.h(63,14): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Globals.h(67,18): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Globals.h(72,18): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Globals.h(78,14): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Globals.h(79,14): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Globals.h(83,18): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Globals.h(89,18): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\AVL.h(425,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\AVL.h(426,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\AVL.h(430,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\AVL.h(430,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Hashing.h(1052,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Hashing.h(1138,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Hashing.h(1144,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Hashing.h(1157,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Hashing.h(1202,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Hashing.h(1203,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Hashing.h(1204,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Hashing.h(1205,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Hashing.h(1206,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Hashing.h(1218,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Hashing.h(1219,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Hashing.h(1220,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Hashing.h(1221,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Hashing.h(1222,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Hashing.h(1282,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Hashing.h(1288,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Hashing.h(1332,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Hashing.h(1333,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Hashing.h(1537,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\minHeap.h(187,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Screens.h(263,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Screens.h(512,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Screens.h(596,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Screens.h(662,73): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Screens.h(662,73): warning C4244:         with
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Screens.h(662,73): warning C4244:         [
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Screens.h(662,73): warning C4244:             T=unsigned int
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Screens.h(662,73): warning C4244:         ]
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Screens.h(662,73): warning C4244:         and
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Screens.h(662,73): warning C4244:         [
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Screens.h(662,73): warning C4244:             T=float
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Screens.h(662,73): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Screens.h(662,53): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Screens.h(662,53): warning C4244:         with
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Screens.h(662,53): warning C4244:         [
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Screens.h(662,53): warning C4244:             T=unsigned int
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Screens.h(662,53): warning C4244:         ]
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Screens.h(662,53): warning C4244:         and
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Screens.h(662,53): warning C4244:         [
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Screens.h(662,53): warning C4244:             T=float
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Screens.h(662,53): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Screens.h(747,73): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Screens.h(747,73): warning C4244:         with
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Screens.h(747,73): warning C4244:         [
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Screens.h(747,73): warning C4244:             T=unsigned int
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Screens.h(747,73): warning C4244:         ]
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Screens.h(747,73): warning C4244:         and
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Screens.h(747,73): warning C4244:         [
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Screens.h(747,73): warning C4244:             T=float
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Screens.h(747,73): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Screens.h(747,53): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Screens.h(747,53): warning C4244:         with
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Screens.h(747,53): warning C4244:         [
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Screens.h(747,53): warning C4244:             T=unsigned int
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Screens.h(747,53): warning C4244:         ]
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Screens.h(747,53): warning C4244:         and
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Screens.h(747,53): warning C4244:         [
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Screens.h(747,53): warning C4244:             T=float
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Screens.h(747,53): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(942,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(942,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(949,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(949,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(953,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(953,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(959,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(959,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1099,73): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1099,73): warning C4244:         with
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1099,73): warning C4244:         [
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1099,73): warning C4244:             T=unsigned int
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1099,73): warning C4244:         ]
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1099,73): warning C4244:         and
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1099,73): warning C4244:         [
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1099,73): warning C4244:             T=float
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1099,73): warning C4244:         ]
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1099,53): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1099,53): warning C4244:         with
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1099,53): warning C4244:         [
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1099,53): warning C4244:             T=unsigned int
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1099,53): warning C4244:         ]
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1099,53): warning C4244:         and
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1099,53): warning C4244:         [
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1099,53): warning C4244:             T=float
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1099,53): warning C4244:         ]
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1149,83): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1149,83): warning C4244:         with
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1149,83): warning C4244:         [
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1149,83): warning C4244:             T=int
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1149,83): warning C4244:         ]
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1149,83): warning C4244:         and
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1149,83): warning C4244:         [
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1149,83): warning C4244:             T=float
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1149,83): warning C4244:         ]
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1149,71): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1149,71): warning C4244:         with
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1149,71): warning C4244:         [
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1149,71): warning C4244:             T=int
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1149,71): warning C4244:         ]
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1149,71): warning C4244:         and
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1149,71): warning C4244:         [
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1149,71): warning C4244:             T=float
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1149,71): warning C4244:         ]
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1165,75): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1165,75): warning C4244:         with
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1165,75): warning C4244:         [
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1165,75): warning C4244:             T=int
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1165,75): warning C4244:         ]
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1165,75): warning C4244:         and
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1165,75): warning C4244:         [
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1165,75): warning C4244:             T=float
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1165,75): warning C4244:         ]
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1165,63): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1165,63): warning C4244:         with
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1165,63): warning C4244:         [
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1165,63): warning C4244:             T=int
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1165,63): warning C4244:         ]
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1165,63): warning C4244:         and
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1165,63): warning C4244:         [
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1165,63): warning C4244:             T=float
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1165,63): warning C4244:         ]
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1526,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1526,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1533,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1533,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1539,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1539,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1588,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1583,1): warning C4715: 'playGame': not all control paths return a value
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Source.cpp(1042,1): warning C4715: 'multiplayerMode': not all control paths return a value
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Queue.h(96,1): warning C4715: 'matchMakingQueue::makeMatch': not all control paths return a value
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\Queue.h(72,1): warning C4715: 'matchMakingQueue::createPriorityQueue': not all control paths return a value
+C:\Users\Waqas\source\repos\DSA-Proj\DSA-Proj\AVL.h(43,1): warning C4715: 'AVLTree::height': not all control paths return a value
+  DSA-Proj.vcxproj -> C:\Users\Waqas\source\repos\DSA-Proj\x64\Debug\DSA-Proj.exe
