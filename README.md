@@ -27,4 +27,5 @@ Xonix is a 2D arcade-style game developed using SFML in C++, featuring both sing
 |Priority Queue| Multiplayer matchmaking.|
 |AVL Tree| Efficient theme management.|
 |Linked List| Saving and loading game states.|
-
+# Getting Started
+Since SFML was used for graphics and audio, the SFML library is required to run the game. [installing SFML for Visual Studio](https://www.youtube.com/watch?v=lFzpkvrscs4)
