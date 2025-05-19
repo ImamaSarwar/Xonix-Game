@@ -34,6 +34,8 @@ Xonix is a 2D arcade-style game developed using SFML in C++, featuring both sing
 
 ![Game UI](https://github.com/ImamaSarwar/Xonix-Game/raw/d0da928de7df3a22db63fd1f94bb710570004719/images/Game%20UI.png)
 # Getting Started
-Since SFML was used for graphics and audio, the SFML library is required to run the game. [installing SFML for Visual Studio](https://www.youtube.com/watch?v=lFzpkvrscs4)
+Since SFML was used for graphics and audio, the SFML library is required to run the game. [Installing SFML for Visual Studio](https://www.youtube.com/watch?v=lFzpkvrscs4)
 # Acknowledgements
+- Project Partner: [Hiyam Rehan](https://github.com/hiyamrehan)
 - Github repository that inspired this project: (https://github.com/embeddedmz/16-Games/tree/master/09%20Xonix)
+### Enjoy!
